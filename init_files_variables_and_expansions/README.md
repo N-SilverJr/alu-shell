@@ -1,1 +1,1 @@
-Scripts showing Shell init files, Variables and expansions
+Shell, init files, variables and expansions
